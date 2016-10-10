@@ -1,0 +1,33 @@
+{
+  "name": "jm-mq",
+  "version": "0.2.0",
+  "description": "a mq lib using redis",
+  "main": "./lib/index",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jm-root/jm-mq.git"
+  },
+  "keywords": [
+    "javascript",
+    "jm-mq"
+  ],
+  "author": {
+    "name": "Jeff YU"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jm-root/jm-mq/issues"
+  },
+  "homepage": "https://github.com/jm-root/jm-mq",
+  "dependencies": {
+    "redis": "*",
+    "jm-core": "*",
+    "objectid": "*"
+  },
+  "devDependencies": {
+    "bluebird": "*"
+  }
+}
