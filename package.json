@@ -1,6 +1,6 @@
 {
   "name": "jm-mq",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "a mq lib using redis",
   "main": "./lib/index",
   "scripts": {
