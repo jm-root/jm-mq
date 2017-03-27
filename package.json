@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/jm-root/jm-mq",
   "dependencies": {
-    "redis": "*",
-    "jm-core": "*",
-    "objectid": "*"
+    "jm-core": "^0.0.7",
+    "objectid": "^3.2.1",
+    "redis": "^2.7.1"
   },
   "devDependencies": {
     "bluebird": "*"
