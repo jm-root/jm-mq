@@ -28,6 +28,7 @@
     "redis": "^2.7.1"
   },
   "devDependencies": {
+    "benchmark": "^2.1.4",
     "bluebird": "*"
   }
 }
